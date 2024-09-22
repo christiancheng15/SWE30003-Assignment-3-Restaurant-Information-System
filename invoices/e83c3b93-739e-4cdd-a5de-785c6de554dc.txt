@@ -1,0 +1,48 @@
+{
+    "date_time": "2024-05-31 10:11:48",
+    "order_id": "e83c3b93-739e-4cdd-a5de-785c6de554dc",
+    "order_type": "Delivery",
+    "items": [
+        {
+            "id": 1,
+            "name": "Caesar Salad",
+            "quantity": 4,
+            "price": 8.99,
+            "total_price": 35.96
+        },
+        {
+            "id": 2,
+            "name": "Spaghetti Bolognese",
+            "quantity": 4,
+            "price": 12.99,
+            "total_price": 51.96
+        },
+        {
+            "id": 3,
+            "name": "Coca-Cola",
+            "quantity": 4,
+            "price": 2.49,
+            "total_price": 9.96
+        }
+    ],
+    "subtotal": 97.88,
+    "delivery_fee": 9.99,
+    "order_total": 107.87,
+    "payment_info": {
+        "card_number": "************4242",
+        "expiration_date": "06/27",
+        "cvv": "567",
+        "cardholder_name": "Christian Cheng",
+        "note": ""
+    },
+    "contact_information": {
+        "name": "Christian Cheng",
+        "mobile_number": "0433675888",
+        "email": "christiancheng@gmail.com"
+    },
+    "delivery_address": {
+        "address": "333 Doncaster Road",
+        "suburb": "Doncaster East",
+        "postal_code": "3109"
+    }
+}

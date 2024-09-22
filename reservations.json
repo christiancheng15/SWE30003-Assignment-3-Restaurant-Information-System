@@ -1,0 +1,29 @@
+[
+	{
+		"date": "05/06/2024",
+		"time": "10:15",
+		"name": "John Smith",
+		"mobile_number": "0412345678",
+		"email": "john.smith123@gmail.com",
+		"party_size": 6,
+		"accommodations": "Highchair"
+	},
+	{
+		"date": "26/06/2024",
+		"time": "18:00",
+		"name": "Benjamin Tan",
+		"mobile_number": "0418238121",
+		"email": "benjitantan@gmail.com",
+		"party_size": 10,
+		"accommodations": "Birthday party"
+	},
+	{
+		"date": "12/06/2024",
+		"time": "12:00",
+		"name": "Christian Cheng",
+		"mobile_number": "0433675888",
+		"email": "christiancheng@gmail.com",
+		"party_size": 2,
+		"accommodations": ""
+	}
+]

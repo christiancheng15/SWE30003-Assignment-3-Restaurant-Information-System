@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"name": "Caesar Salad",
+		"description": "Crisp romaine lettuce, garlic croutons, parmesan cheese, and caesar dressing.",
+		"price": 8.99,
+		"category": "Salad",
+		"availability": true,
+		"active": true
+	},
+	{
+		"id": 2,
+		"name": "Spaghetti Bolognese",
+		"description": "Classic Italian pasta dish with a hearty meat sauce made from beef, tomatoes, and herbs.",
+		"price": 12.99,
+		"category": "Pasta",
+		"availability": true,
+		"active": true
+	},
+	{
+		"id": 3,
+		"name": "Coca-Cola",
+		"description": "Classic Coca Cola beverage served chilled.",
+		"price": 2.49,
+		"category": "Beverage",
+		"availability": true,
+		"active": true
+	}
+]

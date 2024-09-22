@@ -1,0 +1,43 @@
+{
+    "date_time": "2024-05-31 10:10:55",
+    "order_id": "0ceb6a49-4ec8-4a43-b65e-c9765d865695",
+    "order_type": "Takeaway",
+    "items": [
+        {
+            "id": 1,
+            "name": "Caesar Salad",
+            "quantity": 2,
+            "price": 8.99,
+            "total_price": 17.98
+        },
+        {
+            "id": 2,
+            "name": "Spaghetti Bolognese",
+            "quantity": 2,
+            "price": 12.99,
+            "total_price": 25.98
+        },
+        {
+            "id": 3,
+            "name": "Coca-Cola",
+            "quantity": 2,
+            "price": 2.49,
+            "total_price": 4.98
+        }
+    ],
+    "subtotal": 48.94,
+    "delivery_fee": 0,
+    "order_total": 48.94,
+    "payment_info": {
+        "card_number": "************4242",
+        "expiration_date": "05/25",
+        "cvv": "156",
+        "cardholder_name": "Benjamin Tan",
+        "note": ""
+    },
+    "contact_information": {
+        "name": "Benjamin Tan",
+        "mobile_number": "0433666777",
+        "email": "benjitantan@gmail.com"
+    }
+}
